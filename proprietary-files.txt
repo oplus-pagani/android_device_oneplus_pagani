@@ -1265,6 +1265,10 @@ odm/etc/sdm_display_resolution_extn.xml:vendor/etc/display/sdm_display_resolutio
 vendor/etc/ltm_config_AA594_P_7_A0020_dsc_cmd_mode_panel.xml
 vendor/etc/spr_cfg_AA594_P_7_A0020_dsc_cmd_mode_panel.xml
 
+# eUICC
+my_product/etc/permissions/EuiccGoogle_grant_permissions_list.xml:product/etc/permissions/privapp-permissions-euiccgoogle.xml
+my_product/priv-app/EuiccGoogle/EuiccGoogle.apk:product/priv-app/EuiccGoogle/EuiccGoogle.apk;PRESIGNED
+
 # Fingerprint firmware
 odm/firmware/uff_jv.b00
 odm/firmware/uff_jv.b01
