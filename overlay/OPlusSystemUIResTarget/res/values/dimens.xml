@@ -18,7 +18,7 @@
     <dimen name="physical_power_button_center_screen_location_y">1100px</dimen>
 
     <!-- Default device corner radius, used for assist UI -->
-    <dimen name="config_rounded_mask_size">156px</dimen>
+    <dimen name="config_rounded_mask_size">154.0px</dimen>
 
     <!-- Microns/ums (1000 um = 1mm) per pixel for the given device. If unspecified, UI that
          relies on this value will not be sized correctly. -->
