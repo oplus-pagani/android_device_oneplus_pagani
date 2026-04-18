@@ -43,8 +43,8 @@
         </sdrHdrRatioMap>
     </highBrightnessMode>
 
-    <screenBrightnessRampFastDecrease>0.25</screenBrightnessRampFastDecrease>
+    <!--<screenBrightnessRampFastDecrease>0.25</screenBrightnessRampFastDecrease>
     <screenBrightnessRampFastIncrease>0.25</screenBrightnessRampFastIncrease>
     <screenBrightnessRampSlowDecrease>0.05</screenBrightnessRampSlowDecrease>
-    <screenBrightnessRampSlowIncrease>0.05</screenBrightnessRampSlowIncrease>
+    <screenBrightnessRampSlowIncrease>0.05</screenBrightnessRampSlowIncrease>-->
 </displayConfiguration>
