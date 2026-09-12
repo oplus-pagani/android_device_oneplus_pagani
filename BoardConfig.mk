@@ -20,6 +20,7 @@ TARGET_SCREEN_DENSITY := 480
 
 # Kernel
 TARGET_KERNEL_ADDITIONAL_FLAGS += CONFIG_PAGANI_DTB=y
+TARGET_KERNEL_CONFIG += vendor/oplus/pagani.config
 
 # Properties
 TARGET_ODM_PROP += $(DEVICE_PATH)/odm.prop
